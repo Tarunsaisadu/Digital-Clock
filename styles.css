@@ -1,0 +1,24 @@
+* {
+  background-color: black;
+  color: chartreuse;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+
+#clock {
+  border: 3px solid green;
+  height: 20px;
+  width: 200px;
+  margin-top: 250px;
+  margin-left: 250px;
+  padding: 2rem;
+
+  position: relative;
+}
+
+.container {
+  position: absolute;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
