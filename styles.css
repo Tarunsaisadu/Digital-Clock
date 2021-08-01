@@ -3,22 +3,27 @@
   color: chartreuse;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: large;
+  background-image: url(images/);
 }
 
 #clock {
   border: 3px solid green;
   height: 20px;
   width: 200px;
-  margin-top: 250px;
-  margin-left: 250px;
+  margin-top: 40px;
+  margin-left: 400px;
   padding: 2rem;
 
   position: relative;
 }
 
-.container {
-  position: absolute;
+span {
   text-align: center;
-  display: flex;
-  justify-content: center;
+  padding-right: 20px;
+}
+
+h1 {
+  margin-top: 350px;
+  margin-left: 450px;
+  padding-bottom: 0%;
 }
